@@ -8,3 +8,4 @@
 - [Windows Environment Setup]()
 - [Mac Environment Setup]()
 - [Streamlit Documentation](https://docs.streamlit.io/en/stable/api.html)
+- [Personality Adjectives JSON File](https://raw.githubusercontent.com/ChanR-Community/Streamlit_POC_Meetup/master/apps/personality_adjectives.json)
