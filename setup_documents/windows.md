@@ -26,7 +26,7 @@ choco install git atom
 refreshenv
 cd %localappdata%
 ```
-- Type in ``cd atom/atom`` then press tab to autocomplete
+- Type in ``cd atom/app`` then press tab to autocomplete
 
 - Finally, type in ``atom.exe --squirrel-install``
 
